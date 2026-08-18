@@ -1,6 +1,6 @@
 print("Hello this is your free expense tracker to continue we please enter your name")
 name=input("Enter your name: ")
-print("Hello", name, "! Welcome to your Expense Tracker.")
+print("Hello",name)
 expenses={}
 choice = 1
 while choice == 1:
